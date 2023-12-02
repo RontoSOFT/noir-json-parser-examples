@@ -1,0 +1,8 @@
+[package]
+name = "noir_json_parser_examples"
+authors = ["grasshopper47"]
+type = "bin"
+compiler_version = "0.20.0"
+
+[dependencies]
+rontosoft = { path = "../lib" }
